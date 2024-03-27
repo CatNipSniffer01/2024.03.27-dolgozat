@@ -1,0 +1,5 @@
+C:\Users\Diak\Desktop\2024.03.27\BalazsDolgozat\Feladat1\Feladat1\obj\Debug\net6.0\Feladat1.csproj.AssemblyReference.cache
+C:\Users\Diak\Desktop\2024.03.27\BalazsDolgozat\Feladat1\Feladat1\obj\Debug\net6.0\Feladat1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Diak\Desktop\2024.03.27\BalazsDolgozat\Feladat1\Feladat1\obj\Debug\net6.0\Feladat1.AssemblyInfoInputs.cache
+C:\Users\Diak\Desktop\2024.03.27\BalazsDolgozat\Feladat1\Feladat1\obj\Debug\net6.0\Feladat1.AssemblyInfo.cs
+C:\Users\Diak\Desktop\2024.03.27\BalazsDolgozat\Feladat1\Feladat1\obj\Debug\net6.0\Feladat1.csproj.CoreCompileInputs.cache
